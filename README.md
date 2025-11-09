@@ -15,7 +15,7 @@
 | `+` |
 | [debian-iso-builder-import-pacstall-budgie-attach-themes](https://github.com/samwhelp/debian-iso-builder-import-pacstall-budgie-attach-themes) |
 | `=` |
-| [debian-iso-builder-include-pacstall-budgie-theme-vimix](https://github.com/samwhelp/debian-iso-builder-include-pacstall-budgie-theme-vimix) |
+| [debian-iso-builder-include-pacstall-budgie-attach-themes](https://github.com/samwhelp/debian-iso-builder-include-pacstall-budgie-attach-themes) |
 
 
 
